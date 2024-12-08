@@ -104,4 +104,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-You can now paste this content into your `README.md` file in your project directory. 😊
